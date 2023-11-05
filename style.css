@@ -1,0 +1,31 @@
+/* styles.css */
+
+/* Style du titre principal */
+h1 {
+    color: blue;
+    font-family: Arial, sans-serif;
+}
+
+/* Style du paragraphe */
+p {
+    color: black;
+    font-family: Georgia, serif;
+}
+
+/* Style pour la liste non ordonnée */
+ul {
+    color: green;
+}
+
+/* Style pour les éléments de la liste */
+li {
+    font-size: 16px;
+}
+
+/* Style pour l'image */
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
